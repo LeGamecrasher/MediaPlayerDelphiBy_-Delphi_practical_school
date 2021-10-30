@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/30 16:23:28.164.pas,C:\Users\Louise\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Louise\Desktop\Media player delphi\frmMediaplayer_u.pas</Transaction>
+    <Transaction>2021/10/30 16:23:28.164.dfm,C:\Users\Louise\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Louise\Desktop\Media player delphi\frmMediaplayer_u.dfm</Transaction>
+    <Transaction>2021/10/30 16:23:45.801.dproj,C:\Users\Louise\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Louise\Desktop\Media player delphi\frmMediaplayer_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
